@@ -1,0 +1,8 @@
+flask
+tensorflow==2.13.0
+scikit-learn
+spacy
+nltk
+textblob
+pandas
+matplotlib
