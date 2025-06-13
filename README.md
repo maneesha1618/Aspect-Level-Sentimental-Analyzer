@@ -93,6 +93,12 @@ The API will be running at `http://127.0.0.1:5000/`.
 
 ---
 
+### 4. Start the Streamlit API Server
+```bash
+streamlit run app.py
+```
+
+
 ## 🔍 API Usage
 
 ### Endpoint
