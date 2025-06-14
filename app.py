@@ -138,7 +138,7 @@ st.sidebar.success("👨‍💻 Developed by Maneesha M")
 
 # Main Title
 st.markdown("<div class='main'>", unsafe_allow_html=True)
-st.title("🧠 Aspect-Based Sentiment Analyzer")
+st.title("Aspect-Based Sentiment Analyzer")
 
 # Review input
 st.markdown("Enter a review or upload CSV with reviews. The app will detect aspects and predict sentiment.")

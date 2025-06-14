@@ -32,6 +32,7 @@ aspect\_sentiment/
 ├── app/
 │   └── app.py                          # Flask API to expose model
 │
+└── app.py                              # for streamlit deployment
 ├── requirements.txt                    # Dependencies
 └── README.md                           # Project documentation
 
